@@ -14,4 +14,9 @@ I'm Oscar 😄 I work as a Software Engineer and in the last years I have specia
 <img src="./images/icons/laravel.png" alt="Laravel" width="40"/>
 </div>
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/ocarmora/).
+## Portfolio
+
+See my Frontend Mentor challenge solutions [here](https://github.com/ocarmora?tab=repositories&q=fm&type=&language=&sort=).
+
+## Let's talk?
+Send me a message on [LinkedIn](https://www.linkedin.com/in/ocarmora/) 😄
