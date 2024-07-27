@@ -12,6 +12,7 @@ I'm Oscar 😄 I work as a Software Engineer and in the last years I have specia
 <img src="./images/icons/css3.png" alt="CSS3" width="40"/>
 <img src="./images/icons/tailwind.png" alt="Tailwind" width="40"/>
 <img src="./images/icons/laravel.png" alt="Laravel" width="40"/>
+<img src="./images/icons/more.png" alt="Something new..." width="40"/>
 </div>
 
 ## Portfolio
